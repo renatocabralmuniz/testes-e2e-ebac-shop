@@ -1,0 +1,26 @@
+[
+    {
+        "produto": "Abominable Hoodie", 
+        "tamanho": "XL", 
+        "cor":"Red", 
+        "quantidade": "1"
+    },
+    {
+        "produto": "Beaumont Summit Kit", 
+        "tamanho": "XS", 
+        "cor":"Red", 
+        "quantidade": "2"
+    },
+    {
+        "produto": "Augusta Pullover Jacket”", 
+        "tamanho": "M", 
+        "cor":"Blue", 
+        "quantidade": "1"
+    },
+    {
+        "produto": "Cassia Funnel Sweatshirt", 
+        "tamanho": "S", 
+        "cor":"Purple", 
+        "quantidade": "1"
+    }
+]

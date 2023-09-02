@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.14.0"
+  },
+  "name": "teste-ebac-ui",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "npx cypress run --browser chrome",
+    "cy:open": "npx cypress open --browser chrome",
+    "cy:report": "npx cypress run --record --key 05967c7d-957a-4c31-bc3f-5854bbb76a1e"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
