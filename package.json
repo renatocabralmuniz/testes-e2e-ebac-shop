@@ -12,6 +12,7 @@
     "cy:run": "npx cypress run --browser chrome",
     "cy:open": "npx cypress open --browser chrome",
     "cy:report": "npx cypress run --record --key 05967c7d-957a-4c31-bc3f-5854bbb76a1e"
+  
 
   },
   "keywords": [],
